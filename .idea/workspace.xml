@@ -10,96 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cfb530-84b6-41bf-a0c2-5a2ecf34047d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fularavel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/public/web.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fularavel/webpack.mix.js" afterDir="false" />
+    <list default="true" id="56cfb530-84b6-41bf-a0c2-5a2ecf34047d" name="Default Changelist" comment="ilk commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +24,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="fularavel.dev" id="07cf9779-eb5d-42d8-b2fd-27e9c74e9ba0" name="fularavel.dev" />
+    </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -234,6 +151,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="fularavel" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="fularavel.dev">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -246,7 +168,16 @@
       <workItem from="1605213674623" duration="922000" />
       <workItem from="1605217304340" duration="604000" />
       <workItem from="1605241518067" duration="251000" />
+      <workItem from="1605242879105" duration="399000" />
     </task>
+    <task id="LOCAL-00001" summary="ilk commit">
+      <created>1605243014888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605243014888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,11 +193,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="ilk commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="ilk commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="348" y="79" key="#Servers" timestamp="1605243248855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="79" key="#Servers/0.0.1536.824@0.0.1536.824" timestamp="1605243248855" />
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605243277256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605243277256" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605013582585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
